@@ -41,7 +41,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ scrollToSection }) => {
               </button>
 
               <button
-                onClick={() => window.open('https://drive.google.com/file/d/1naQweM_rTnUl4-8tg8Fbivocy-2bdjAZ/view?usp=sharing', '_blank')}
+                onClick={() => window.open('https://drive.google.com/file/d/1Ogzz2to_6OA3RiZ27T12Ge9unSQyodKC/view?usp=sharing', '_blank')}
                 className="bg-[#232931] text-white px-8 py-3 rounded-full font-semibold hover:bg-[#1a1f26] transition-all duration-300 transform hover:scale-105 shadow-lg border-solid border-2 border-[#FBD46D] hover:border-[#f9c94a]"
               >
                 CV
